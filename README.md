@@ -18,4 +18,6 @@ The primary source of data used is DimEmployee Sales CSV and this is an open sou
 -Ms Excel for Data Cleaning [Download](www.microsoft.com)
 -SQL Server (For Querying and Analysis)
 -Power BI (For Creating a Report)
--Ms Power Point (for Presentation
+-Ms Power Point (for Presentation)
+
+
