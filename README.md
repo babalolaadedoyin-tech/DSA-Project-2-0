@@ -30,5 +30,12 @@ In the initial phase of the data cleaning and preparations, we perform the follo
 
 ### Data Analysis
 
+This is where we include some basic lines of code
+
+``Eg
+
+SELECT A,B,C
+WHERE A >B
+
 
 
