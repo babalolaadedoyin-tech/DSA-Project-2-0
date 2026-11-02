@@ -20,4 +20,15 @@ The primary source of data used is DimEmployee Sales CSV and this is an open sou
 -Power BI (For Creating a Report)
 -Ms Power Point (for Presentation)
 
+### Data Cleaning and Preparation
+
+In the initial phase of the data cleaning and preparations, we perform the following actions:
+
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+
+### Data Analysis
+
+
 
